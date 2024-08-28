@@ -1,0 +1,604 @@
+2024-08-05 17:03:15.2995 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-05 17:03:15.3471 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-05 17:03:15.3705 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-05 17:03:15.4014 Info Configuration initialized.
+2024-08-07 01:36:59.5912 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 01:36:59.6410 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 01:36:59.6609 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-07 01:36:59.6859 Info Configuration initialized.
+2024-08-07 01:42:14.7042 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 01:42:14.7239 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 01:42:14.7370 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-07 01:42:14.7533 Info Configuration initialized.
+2024-08-07 01:42:16.4254 Info AppDomain Shutting down. LogFactory closing...
+2024-08-07 01:42:16.4405 Info LogFactory has been closed.
+2024-08-07 01:42:36.0470 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 01:42:36.0659 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 01:42:36.0777 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-07 01:42:36.0907 Info Configuration initialized.
+2024-08-07 01:42:37.3202 Info AppDomain Shutting down. LogFactory closing...
+2024-08-07 01:42:37.3307 Info LogFactory has been closed.
+2024-08-07 01:49:47.1261 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 01:49:47.1889 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 01:49:47.2028 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-07 01:49:47.2201 Info Configuration initialized.
+2024-08-07 01:49:52.6011 Info AppDomain Shutting down. LogFactory closing...
+2024-08-07 01:49:52.6139 Info LogFactory has been closed.
+2024-08-07 13:00:11.6313 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 13:00:11.6977 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 13:00:11.6977 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-07 13:00:11.7206 Info Configuration initialized.
+2024-08-07 13:00:13.8177 Info AppDomain Shutting down. LogFactory closing...
+2024-08-07 13:00:13.8305 Info LogFactory has been closed.
+2024-08-07 13:00:24.7958 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 13:00:24.8261 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 13:00:24.8261 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-07 13:00:24.8557 Info Configuration initialized.
+2024-08-07 13:00:26.5609 Info AppDomain Shutting down. LogFactory closing...
+2024-08-07 13:00:26.5784 Info LogFactory has been closed.
+2024-08-07 17:02:44.8601 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 17:02:44.9056 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 17:02:44.9056 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-07 17:02:44.9248 Info Configuration initialized.
+2024-08-07 17:02:45.5864 Info AppDomain Shutting down. LogFactory closing...
+2024-08-07 17:02:45.5948 Info LogFactory has been closed.
+2024-08-07 17:06:08.1533 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 17:06:08.1673 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 17:06:08.1673 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-07 17:06:08.1849 Info Configuration initialized.
+2024-08-07 17:06:08.6777 Info AppDomain Shutting down. LogFactory closing...
+2024-08-07 17:06:08.6861 Info LogFactory has been closed.
+2024-08-07 17:07:23.2307 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 17:07:23.2452 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 17:07:23.2452 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-07 17:07:23.2622 Info Configuration initialized.
+2024-08-07 17:07:23.7312 Info AppDomain Shutting down. LogFactory closing...
+2024-08-07 17:07:23.7312 Info LogFactory has been closed.
+2024-08-07 17:08:10.5918 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 17:08:10.6088 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 17:08:10.6214 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-07 17:08:10.6315 Info Configuration initialized.
+2024-08-07 17:08:11.1367 Info AppDomain Shutting down. LogFactory closing...
+2024-08-07 17:08:11.1367 Info LogFactory has been closed.
+2024-08-07 17:17:18.8720 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 17:17:18.8888 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 17:17:18.8978 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-07 17:17:18.9086 Info Configuration initialized.
+2024-08-07 17:17:19.4781 Info AppDomain Shutting down. LogFactory closing...
+2024-08-07 17:17:19.4861 Info LogFactory has been closed.
+2024-08-07 17:18:35.9561 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 17:18:35.9561 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 17:18:35.9758 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-07 17:18:35.9758 Info Configuration initialized.
+2024-08-07 17:18:36.4776 Info AppDomain Shutting down. LogFactory closing...
+2024-08-07 17:18:36.4872 Info LogFactory has been closed.
+2024-08-07 17:20:19.1198 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 17:20:19.1342 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 17:20:19.1422 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-07 17:20:19.1422 Info Configuration initialized.
+2024-08-07 17:20:20.4358 Info AppDomain Shutting down. LogFactory closing...
+2024-08-07 17:20:20.4449 Info LogFactory has been closed.
+2024-08-07 17:21:26.4922 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 17:21:26.5330 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 17:21:26.5411 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-07 17:21:26.5411 Info Configuration initialized.
+2024-08-07 17:21:29.8151 Info AppDomain Shutting down. LogFactory closing...
+2024-08-07 17:21:29.8228 Info LogFactory has been closed.
+2024-08-07 17:29:24.0030 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 17:29:24.0473 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 17:29:24.0473 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-07 17:29:24.0666 Info Configuration initialized.
+2024-08-07 17:29:27.8531 Info AppDomain Shutting down. LogFactory closing...
+2024-08-07 17:29:27.8615 Info LogFactory has been closed.
+2024-08-07 17:29:39.4954 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 17:29:39.5093 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 17:29:39.5175 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-07 17:29:39.5175 Info Configuration initialized.
+2024-08-07 17:29:40.4738 Info AppDomain Shutting down. LogFactory closing...
+2024-08-07 17:29:40.4811 Info LogFactory has been closed.
+2024-08-07 17:29:50.2266 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 17:29:50.2407 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 17:29:50.2407 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-07 17:29:50.2571 Info Configuration initialized.
+2024-08-07 17:29:51.2968 Info AppDomain Shutting down. LogFactory closing...
+2024-08-07 17:29:51.2968 Info LogFactory has been closed.
+2024-08-07 17:29:57.8378 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 17:29:57.8541 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 17:29:57.8624 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-07 17:29:57.8624 Info Configuration initialized.
+2024-08-07 17:30:01.2877 Info AppDomain Shutting down. LogFactory closing...
+2024-08-07 17:30:01.2951 Info LogFactory has been closed.
+2024-08-07 17:32:09.4491 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 17:32:09.4623 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 17:32:09.4707 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-07 17:32:09.4707 Info Configuration initialized.
+2024-08-07 17:32:10.5082 Info AppDomain Shutting down. LogFactory closing...
+2024-08-07 17:32:10.5187 Info LogFactory has been closed.
+2024-08-07 17:32:14.7347 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 17:32:14.7473 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 17:32:14.7552 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-07 17:32:14.7552 Info Configuration initialized.
+2024-08-07 17:32:19.0536 Info AppDomain Shutting down. LogFactory closing...
+2024-08-07 17:32:19.0536 Info LogFactory has been closed.
+2024-08-07 17:36:31.6129 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 17:36:31.6266 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 17:36:31.6343 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-07 17:36:31.6343 Info Configuration initialized.
+2024-08-07 17:36:34.8263 Info AppDomain Shutting down. LogFactory closing...
+2024-08-07 17:36:34.8263 Info LogFactory has been closed.
+2024-08-07 17:43:17.3864 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 17:43:17.4303 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 17:43:17.4380 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-07 17:43:17.4380 Info Configuration initialized.
+2024-08-07 17:43:18.7005 Info AppDomain Shutting down. LogFactory closing...
+2024-08-07 17:43:18.7104 Info LogFactory has been closed.
+2024-08-07 17:43:30.6003 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 17:43:30.6155 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 17:43:30.6237 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-07 17:43:30.6237 Info Configuration initialized.
+2024-08-07 17:43:33.7988 Info AppDomain Shutting down. LogFactory closing...
+2024-08-07 17:43:33.7988 Info LogFactory has been closed.
+2024-08-07 18:09:44.9373 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 18:09:45.0289 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 18:09:45.0289 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-07 18:09:45.0615 Info Configuration initialized.
+2024-08-07 18:09:47.3661 Info AppDomain Shutting down. LogFactory closing...
+2024-08-07 18:09:47.3819 Info LogFactory has been closed.
+2024-08-07 18:09:56.6343 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 18:09:56.6675 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 18:09:56.6875 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-07 18:09:56.7138 Info Configuration initialized.
+2024-08-07 18:09:59.5710 Info AppDomain Shutting down. LogFactory closing...
+2024-08-07 18:09:59.5880 Info LogFactory has been closed.
+2024-08-07 18:14:43.2087 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 18:14:43.2434 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 18:14:43.2690 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-07 18:14:43.3015 Info Configuration initialized.
+2024-08-07 18:14:45.7123 Info AppDomain Shutting down. LogFactory closing...
+2024-08-07 18:14:45.7272 Info LogFactory has been closed.
+2024-08-07 18:14:51.7855 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 18:14:51.8071 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 18:14:51.8266 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-07 18:14:51.8460 Info Configuration initialized.
+2024-08-07 18:14:56.8120 Info AppDomain Shutting down. LogFactory closing...
+2024-08-07 18:14:56.8274 Info LogFactory has been closed.
+2024-08-07 18:16:46.4396 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 18:16:46.4667 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 18:16:46.4856 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-07 18:16:46.5075 Info Configuration initialized.
+2024-08-07 18:16:51.1509 Info AppDomain Shutting down. LogFactory closing...
+2024-08-07 18:16:51.1687 Info LogFactory has been closed.
+2024-08-07 18:17:22.9153 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 18:17:22.9490 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 18:17:22.9689 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-07 18:17:22.9689 Info Configuration initialized.
+2024-08-07 18:17:24.8954 Info AppDomain Shutting down. LogFactory closing...
+2024-08-07 18:17:24.9065 Info LogFactory has been closed.
+2024-08-07 18:17:32.4893 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 18:17:32.5090 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 18:17:32.5224 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-07 18:17:32.5224 Info Configuration initialized.
+2024-08-07 18:17:34.2339 Info AppDomain Shutting down. LogFactory closing...
+2024-08-07 18:17:34.2339 Info LogFactory has been closed.
+2024-08-07 18:18:41.8806 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 18:18:41.9067 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 18:18:41.9242 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-07 18:18:41.9439 Info Configuration initialized.
+2024-08-07 18:18:43.7148 Info AppDomain Shutting down. LogFactory closing...
+2024-08-07 18:18:43.7271 Info LogFactory has been closed.
+2024-08-07 18:18:49.5734 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 18:18:49.5948 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 18:18:49.5948 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-07 18:18:49.6290 Info Configuration initialized.
+2024-08-07 18:18:58.3614 Info AppDomain Shutting down. LogFactory closing...
+2024-08-07 18:18:58.3739 Info LogFactory has been closed.
+2024-08-07 18:34:15.7751 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 18:34:15.8065 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 18:34:15.8229 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-07 18:34:15.8449 Info Configuration initialized.
+2024-08-07 18:34:29.9510 Info AppDomain Shutting down. LogFactory closing...
+2024-08-07 18:34:29.9683 Info LogFactory has been closed.
+2024-08-07 18:37:22.1804 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 18:37:22.1998 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 18:37:22.1998 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-07 18:37:22.2316 Info Configuration initialized.
+2024-08-07 18:37:28.8214 Info AppDomain Shutting down. LogFactory closing...
+2024-08-07 18:37:28.8368 Info LogFactory has been closed.
+2024-08-07 18:37:47.2574 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 18:37:47.3481 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 18:37:47.3748 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-07 18:37:47.4010 Info Configuration initialized.
+2024-08-07 18:37:49.9245 Info AppDomain Shutting down. LogFactory closing...
+2024-08-07 18:37:49.9431 Info LogFactory has been closed.
+2024-08-07 18:37:56.5050 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 18:37:56.5373 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 18:37:56.5547 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-07 18:37:56.5750 Info Configuration initialized.
+2024-08-07 18:38:08.2273 Info AppDomain Shutting down. LogFactory closing...
+2024-08-07 18:38:08.2437 Info LogFactory has been closed.
+2024-08-07 19:26:16.4745 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 19:26:16.5519 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 19:26:16.5719 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-07 19:26:16.5972 Info Configuration initialized.
+2024-08-07 19:26:19.3899 Info AppDomain Shutting down. LogFactory closing...
+2024-08-07 19:26:19.4039 Info LogFactory has been closed.
+2024-08-07 19:48:57.6767 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 19:48:57.7520 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 19:48:57.7520 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-07 19:48:57.7808 Info Configuration initialized.
+2024-08-07 19:48:59.7709 Info AppDomain Shutting down. LogFactory closing...
+2024-08-07 19:48:59.7841 Info LogFactory has been closed.
+2024-08-07 19:49:07.8849 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 19:49:07.9122 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 19:49:07.9122 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-07 19:49:07.9469 Info Configuration initialized.
+2024-08-07 19:49:15.7984 Info AppDomain Shutting down. LogFactory closing...
+2024-08-07 19:49:15.7984 Info LogFactory has been closed.
+2024-08-07 19:59:25.0374 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 19:59:25.0635 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 19:59:25.0635 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-07 19:59:25.0969 Info Configuration initialized.
+2024-08-07 19:59:27.3154 Info AppDomain Shutting down. LogFactory closing...
+2024-08-07 19:59:27.3293 Info LogFactory has been closed.
+2024-08-07 19:59:43.2579 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 19:59:43.2885 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 19:59:43.2885 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-07 19:59:43.3235 Info Configuration initialized.
+2024-08-07 19:59:49.6742 Info AppDomain Shutting down. LogFactory closing...
+2024-08-07 19:59:49.6895 Info LogFactory has been closed.
+2024-08-07 20:06:12.5053 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 20:06:12.5360 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 20:06:12.5570 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-07 20:06:12.5798 Info Configuration initialized.
+2024-08-07 20:06:14.5108 Info AppDomain Shutting down. LogFactory closing...
+2024-08-07 20:06:14.5268 Info LogFactory has been closed.
+2024-08-07 20:06:21.2137 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 20:06:21.2440 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 20:06:21.2673 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-07 20:06:21.2955 Info Configuration initialized.
+2024-08-07 20:06:28.2821 Info AppDomain Shutting down. LogFactory closing...
+2024-08-07 20:06:28.2968 Info LogFactory has been closed.
+2024-08-07 20:19:54.1255 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 20:19:54.2155 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 20:19:54.2295 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-07 20:19:54.2295 Info Configuration initialized.
+2024-08-07 20:19:56.4625 Info AppDomain Shutting down. LogFactory closing...
+2024-08-07 20:19:56.4736 Info LogFactory has been closed.
+2024-08-07 20:20:02.8345 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 20:20:02.8691 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 20:20:02.8862 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-07 20:20:02.9044 Info Configuration initialized.
+2024-08-07 20:20:11.0111 Info AppDomain Shutting down. LogFactory closing...
+2024-08-07 20:20:11.0271 Info LogFactory has been closed.
+2024-08-07 20:21:29.8875 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 20:21:29.9095 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 20:21:29.9242 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-07 20:21:29.9458 Info Configuration initialized.
+2024-08-07 20:21:32.0355 Info AppDomain Shutting down. LogFactory closing...
+2024-08-07 20:21:32.0355 Info LogFactory has been closed.
+2024-08-07 20:21:42.6289 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 20:21:42.6595 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 20:21:42.6784 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-07 20:21:42.7017 Info Configuration initialized.
+2024-08-07 20:21:49.1380 Info AppDomain Shutting down. LogFactory closing...
+2024-08-07 20:21:49.1532 Info LogFactory has been closed.
+2024-08-07 20:24:15.5475 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 20:24:15.5707 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 20:24:15.5707 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-07 20:24:15.6137 Info Configuration initialized.
+2024-08-07 20:24:17.8060 Info AppDomain Shutting down. LogFactory closing...
+2024-08-07 20:24:17.8192 Info LogFactory has been closed.
+2024-08-07 20:25:10.8776 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 20:25:10.9071 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 20:25:10.9278 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-07 20:25:10.9528 Info Configuration initialized.
+2024-08-07 20:25:17.1753 Info AppDomain Shutting down. LogFactory closing...
+2024-08-07 20:25:17.1890 Info LogFactory has been closed.
+2024-08-07 20:27:46.2658 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 20:27:46.2904 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 20:27:46.3060 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-07 20:27:46.3060 Info Configuration initialized.
+2024-08-07 20:27:48.1844 Info AppDomain Shutting down. LogFactory closing...
+2024-08-07 20:27:48.1977 Info LogFactory has been closed.
+2024-08-07 20:27:53.9976 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 20:27:54.0310 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 20:27:54.0514 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-07 20:27:54.0752 Info Configuration initialized.
+2024-08-07 20:28:02.5142 Info AppDomain Shutting down. LogFactory closing...
+2024-08-07 20:28:02.5291 Info LogFactory has been closed.
+2024-08-07 20:44:28.7650 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 20:44:28.8280 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 20:44:28.8419 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-07 20:44:28.8569 Info Configuration initialized.
+2024-08-07 20:44:29.8110 Info AppDomain Shutting down. LogFactory closing...
+2024-08-07 20:44:29.8297 Info LogFactory has been closed.
+2024-08-07 20:45:18.4746 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 20:45:18.5010 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 20:45:18.5130 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-07 20:45:18.5304 Info Configuration initialized.
+2024-08-07 20:45:20.5754 Info AppDomain Shutting down. LogFactory closing...
+2024-08-07 20:45:20.5867 Info LogFactory has been closed.
+2024-08-07 20:45:27.7165 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 20:45:27.7388 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 20:45:27.7388 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-07 20:45:27.7623 Info Configuration initialized.
+2024-08-07 20:45:38.0866 Info AppDomain Shutting down. LogFactory closing...
+2024-08-07 20:45:38.0991 Info LogFactory has been closed.
+2024-08-07 20:49:41.0185 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 20:49:41.0374 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 20:49:41.0374 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-07 20:49:41.0657 Info Configuration initialized.
+2024-08-07 20:49:43.0705 Info AppDomain Shutting down. LogFactory closing...
+2024-08-07 20:49:43.0902 Info LogFactory has been closed.
+2024-08-07 20:49:49.7366 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 20:49:49.7559 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 20:49:49.7709 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-07 20:49:49.7709 Info Configuration initialized.
+2024-08-07 20:50:00.9917 Info AppDomain Shutting down. LogFactory closing...
+2024-08-07 20:50:01.0046 Info LogFactory has been closed.
+2024-08-07 20:54:48.4288 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 20:54:48.5168 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 20:54:48.5168 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-07 20:54:48.5479 Info Configuration initialized.
+2024-08-07 20:54:50.5370 Info AppDomain Shutting down. LogFactory closing...
+2024-08-07 20:54:50.5518 Info LogFactory has been closed.
+2024-08-07 20:54:59.5228 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-07 20:54:59.5529 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-07 20:54:59.5729 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-07 20:54:59.5897 Info Configuration initialized.
+2024-08-07 20:55:11.1908 Info AppDomain Shutting down. LogFactory closing...
+2024-08-07 20:55:11.1908 Info LogFactory has been closed.
+2024-08-08 19:01:46.7484 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-08 19:01:46.8178 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-08 19:01:46.8324 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-08 19:01:46.8517 Info Configuration initialized.
+2024-08-08 19:01:49.8443 Info AppDomain Shutting down. LogFactory closing...
+2024-08-08 19:01:49.8623 Info LogFactory has been closed.
+2024-08-08 19:01:56.9711 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-08 19:01:57.0046 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-08 19:01:57.0205 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-08 19:01:57.0401 Info Configuration initialized.
+2024-08-08 19:01:59.7417 Info AppDomain Shutting down. LogFactory closing...
+2024-08-08 19:01:59.7540 Info LogFactory has been closed.
+2024-08-08 19:04:58.9148 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-08 19:04:58.9924 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-08 19:04:59.0070 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-08 19:04:59.0216 Info Configuration initialized.
+2024-08-08 19:05:00.5612 Info AppDomain Shutting down. LogFactory closing...
+2024-08-08 19:05:00.5770 Info LogFactory has been closed.
+2024-08-08 19:06:34.1609 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-08 19:06:34.1881 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-08 19:06:34.1881 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-08 19:06:34.2301 Info Configuration initialized.
+2024-08-08 19:06:36.1700 Info AppDomain Shutting down. LogFactory closing...
+2024-08-08 19:06:36.1825 Info LogFactory has been closed.
+2024-08-08 19:06:43.3649 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-08 19:06:43.3888 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-08 19:06:43.4053 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-08 19:06:43.4206 Info Configuration initialized.
+2024-08-08 19:07:01.3705 Info AppDomain Shutting down. LogFactory closing...
+2024-08-08 19:07:01.3845 Info LogFactory has been closed.
+2024-08-08 19:08:57.8479 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-08 19:08:57.8883 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-08 19:08:57.9100 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-08 19:08:57.9356 Info Configuration initialized.
+2024-08-08 19:09:00.4947 Info AppDomain Shutting down. LogFactory closing...
+2024-08-08 19:09:00.4947 Info LogFactory has been closed.
+2024-08-08 19:10:05.9788 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-08 19:10:06.0047 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-08 19:10:06.0197 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-08 19:10:06.0378 Info Configuration initialized.
+2024-08-08 19:10:08.1350 Info AppDomain Shutting down. LogFactory closing...
+2024-08-08 19:10:08.1350 Info LogFactory has been closed.
+2024-08-08 19:10:29.1684 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-08 19:10:29.1918 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-08 19:10:29.2076 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-08 19:10:29.2237 Info Configuration initialized.
+2024-08-08 19:10:31.1466 Info AppDomain Shutting down. LogFactory closing...
+2024-08-08 19:10:31.1606 Info LogFactory has been closed.
+2024-08-08 19:10:41.9401 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-08 19:10:41.9642 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-08 19:10:41.9781 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-08 19:10:41.9781 Info Configuration initialized.
+2024-08-08 19:10:56.6704 Info AppDomain Shutting down. LogFactory closing...
+2024-08-08 19:10:56.6849 Info LogFactory has been closed.
+2024-08-10 22:05:33.9254 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-10 22:05:33.9934 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-10 22:05:34.0071 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-10 22:05:34.0227 Info Configuration initialized.
+2024-08-11 00:28:11.4439 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-11 00:28:11.5143 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-11 00:28:11.5326 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-11 00:28:11.5523 Info Configuration initialized.
+2024-08-11 02:31:39.4661 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-11 02:31:39.5207 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-11 02:31:39.5721 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-11 02:31:39.6054 Info Configuration initialized.
+2024-08-11 02:34:50.4344 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-11 02:34:50.5047 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-11 02:34:50.5599 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-11 02:34:50.5939 Info Configuration initialized.
+2024-08-11 20:54:35.8795 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-11 20:54:36.0044 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-11 20:54:36.0356 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-11 20:54:36.0667 Info Configuration initialized.
+2024-08-15 15:47:47.4770 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-15 15:47:47.5196 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-15 15:47:47.5427 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-15 15:47:47.5649 Info Configuration initialized.
+2024-08-15 22:01:06.5447 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-15 22:01:06.5967 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-15 22:01:06.6218 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-15 22:01:06.6486 Info Configuration initialized.
+2024-08-15 22:03:24.8982 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-15 22:03:25.0317 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-15 22:03:25.0605 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-15 22:03:25.0906 Info Configuration initialized.
+2024-08-17 02:01:14.9836 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-17 02:01:15.0346 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-17 02:01:15.0461 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-17 02:01:15.0624 Info Configuration initialized.
+2024-08-17 03:29:31.1804 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-17 03:29:31.2474 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-17 03:29:31.2629 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-17 03:29:31.2830 Info Configuration initialized.
+2024-08-17 03:34:01.7727 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-17 03:34:01.8149 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-17 03:34:01.8336 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-17 03:34:01.8615 Info Configuration initialized.
+2024-08-17 03:43:21.7561 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-17 03:43:21.7700 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-17 03:43:21.7700 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-17 03:43:21.7861 Info Configuration initialized.
+2024-08-17 03:43:23.7751 Info AppDomain Shutting down. LogFactory closing...
+2024-08-17 03:43:23.7821 Info LogFactory has been closed.
+2024-08-17 03:45:55.3514 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-17 03:45:55.4021 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-17 03:45:55.4132 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-17 03:45:55.4239 Info Configuration initialized.
+2024-08-17 03:46:01.8804 Info AppDomain Shutting down. LogFactory closing...
+2024-08-17 03:46:01.8804 Info LogFactory has been closed.
+2024-08-17 03:46:37.9133 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-17 03:46:37.9464 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-17 03:46:37.9617 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-17 03:46:37.9801 Info Configuration initialized.
+2024-08-18 21:25:30.9571 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-18 21:25:31.0349 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-18 21:25:31.0349 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-18 21:25:31.0593 Info Configuration initialized.
+2024-08-18 21:28:03.1818 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-18 21:28:03.2340 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-18 21:28:03.2800 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-18 21:28:03.3374 Info Configuration initialized.
+2024-08-18 21:40:01.5458 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-18 21:40:01.6107 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-18 21:40:01.6376 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-18 21:40:01.6645 Info Configuration initialized.
+2024-08-18 22:34:31.9339 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-18 22:34:32.3238 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-18 22:34:32.3789 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-18 22:34:32.4645 Info Configuration initialized.
+2024-08-18 22:47:33.7804 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-18 22:47:33.8412 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-18 22:47:33.8562 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-18 22:47:33.8735 Info Configuration initialized.
+2024-08-18 22:57:43.8682 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-18 22:57:43.9205 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-18 22:57:43.9308 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-18 22:57:43.9445 Info Configuration initialized.
+2024-08-18 23:00:05.6478 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-18 23:00:05.6624 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-18 23:00:05.6711 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-18 23:00:05.6711 Info Configuration initialized.
+2024-08-18 23:02:49.6152 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-18 23:02:49.7508 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-18 23:02:49.8046 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-18 23:02:49.8541 Info Configuration initialized.
+2024-08-18 23:04:27.6006 Info AppDomain Shutting down. LogFactory closing...
+2024-08-18 23:04:27.6211 Info LogFactory has been closed.
+2024-08-18 23:04:57.0899 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-18 23:04:57.1563 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-18 23:04:57.1893 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-18 23:04:57.2286 Info Configuration initialized.
+2024-08-18 23:10:58.6968 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-18 23:10:58.7953 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-18 23:10:58.8215 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-18 23:10:58.8583 Info Configuration initialized.
+2024-08-19 22:44:03.8290 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-19 22:44:03.8598 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-19 22:44:03.8768 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-19 22:44:03.9008 Info Configuration initialized.
+2024-08-20 09:23:27.6450 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-20 09:23:27.7274 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-20 09:23:27.7510 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-20 09:23:27.7768 Info Configuration initialized.
+2024-08-20 09:35:37.3019 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-20 09:35:37.3454 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-20 09:35:37.3641 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\QMSWebAPI\nlog.config
+2024-08-20 09:35:37.4046 Info Configuration initialized.
+2024-08-20 10:23:08.3750 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-20 10:23:08.4311 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-20 10:23:08.4576 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\HospitalQMSWebAPI\nlog.config
+2024-08-20 10:23:08.4873 Info Configuration initialized.
+2024-08-20 14:48:08.0358 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-20 14:48:08.0853 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-20 14:48:08.0996 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\HospitalQMSWebAPI\nlog.config
+2024-08-20 14:48:08.1171 Info Configuration initialized.
+2024-08-20 14:48:29.9213 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-20 14:48:29.9871 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-20 14:48:30.0222 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\HospitalQMSWebAPI\nlog.config
+2024-08-20 14:48:30.0533 Info Configuration initialized.
+2024-08-20 15:08:01.3558 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-20 15:08:01.4121 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-20 15:08:01.4473 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\HospitalQMSWebAPI\nlog.config
+2024-08-20 15:08:01.4892 Info Configuration initialized.
+2024-08-20 15:11:00.7964 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-20 15:11:00.8101 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-20 15:11:00.8187 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\HospitalQMSWebAPI\nlog.config
+2024-08-20 15:11:00.8187 Info Configuration initialized.
+2024-08-20 15:21:10.4969 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-20 15:21:10.5405 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-20 15:21:10.5586 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\HospitalQMSWebAPI\nlog.config
+2024-08-20 15:21:10.5845 Info Configuration initialized.
+2024-08-20 21:49:18.0927 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-20 21:49:18.1520 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-20 21:49:18.1831 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\HospitalQMSWebAPI\nlog.config
+2024-08-20 21:49:18.2186 Info Configuration initialized.
+2024-08-20 23:00:20.9793 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-20 23:00:21.0791 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-20 23:00:21.1024 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\HospitalQMSWebAPI\nlog.config
+2024-08-20 23:00:21.1328 Info Configuration initialized.
+2024-08-20 23:01:20.8428 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-20 23:01:20.8953 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-20 23:01:20.9242 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\HospitalQMSWebAPI\nlog.config
+2024-08-20 23:01:20.9547 Info Configuration initialized.
+2024-08-21 00:52:24.9513 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-21 00:52:25.0171 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-21 00:52:25.0340 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\HospitalQMSWebAPI\nlog.config
+2024-08-21 00:52:25.0545 Info Configuration initialized.
+2024-08-21 00:52:47.2232 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-21 00:52:47.2675 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-21 00:52:47.2958 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\HospitalQMSWebAPI\nlog.config
+2024-08-21 00:52:47.3360 Info Configuration initialized.
+2024-08-21 01:00:08.5698 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-21 01:00:08.6070 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-21 01:00:08.6254 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\HospitalQMSWebAPI\nlog.config
+2024-08-21 01:00:08.6568 Info Configuration initialized.
+2024-08-21 01:01:11.8732 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-21 01:01:11.9075 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-21 01:01:11.9187 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\HospitalQMSWebAPI\nlog.config
+2024-08-21 01:01:11.9318 Info Configuration initialized.
+2024-08-21 01:01:47.0366 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-21 01:01:47.1032 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-21 01:01:47.1414 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\HospitalQMSWebAPI\nlog.config
+2024-08-21 01:01:47.1736 Info Configuration initialized.
+2024-08-21 01:02:26.2849 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-21 01:02:26.3388 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-21 01:02:26.3646 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\HospitalQMSWebAPI\nlog.config
+2024-08-21 01:02:26.4109 Info Configuration initialized.
+2024-08-27 13:18:28.2511 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-27 13:18:28.3083 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-27 13:18:28.3346 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\HospitalQMSWebAPI\nlog.config
+2024-08-27 13:18:28.3638 Info Configuration initialized.
+2024-08-28 05:04:41.8751 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-28 05:04:41.9086 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-28 05:04:41.9255 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\HospitalQMSWebAPI\nlog.config
+2024-08-28 05:04:41.9445 Info Configuration initialized.
+2024-08-28 05:28:00.8720 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-28 05:28:00.9918 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-28 05:28:01.0191 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\HospitalQMSWebAPI\nlog.config
+2024-08-28 05:28:01.0536 Info Configuration initialized.
+2024-08-28 12:59:45.0059 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-28 12:59:45.1060 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-28 12:59:45.1330 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\HospitalQMSWebAPI\nlog.config
+2024-08-28 12:59:45.1666 Info Configuration initialized.
+2024-08-28 15:11:12.9275 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-28 15:11:12.9519 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-28 15:11:12.9519 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\HospitalQMS\HospitalQMSWebAPI\nlog.config
+2024-08-28 15:11:12.9733 Info Configuration initialized.
+2024-08-28 15:47:26.2298 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-28 15:47:26.2645 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-28 15:47:26.2815 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\QMS\QMSWebAPI\nlog.config
+2024-08-28 15:47:26.2815 Info Configuration initialized.
+2024-08-28 15:48:20.1769 Info AppDomain Shutting down. LogFactory closing...
+2024-08-28 15:48:20.1895 Info LogFactory has been closed.
