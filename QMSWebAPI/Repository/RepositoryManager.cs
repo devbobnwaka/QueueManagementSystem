@@ -8,13 +8,13 @@ namespace QMSWebAPI.Repository
         private readonly Lazy<IQueueRepository> _queueRepository;
         private readonly Lazy<ISectionRepository> _sectionRepository;
 
-        public RepositoryManager(RepositoryContext respositoryContext)
+        public RepositoryManager(RepositoryContext repositoryContext)
         {
-            _repositoryContext = respositoryContext;
+            _repositoryContext = repositoryContext;
             _queueRepository = new Lazy<IQueueRepository>(()
-                => new QueueRepository(respositoryContext));
+                => new QueueRepository(repositoryContext));
             _sectionRepository = new Lazy<ISectionRepository>(() 
-                => new SectionRepository( respositoryContext));
+                => new SectionRepository( repositoryContext));
         }
         public IQueueRepository Queue => _queueRepository.Value;
 
