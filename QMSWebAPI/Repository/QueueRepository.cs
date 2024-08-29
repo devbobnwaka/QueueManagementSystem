@@ -12,9 +12,9 @@ namespace QMSWebAPI.Repository
         }
         public void CreateQueue(QueueModel queue) => Create(queue);
 
-        public async Task<IEnumerable<QueueModel>> GetAllQueuesAsync(bool trachChanges)
+        public async Task<IEnumerable<QueueModel>> GetAllQueuesAsync(bool trackChanges)
         {
-            return await FindAll(trachChanges).ToListAsync();
+            return await FindAll(trackChanges).ToListAsync();
         }
 
         public async Task<QueueModel> GetQueueAsync(int queueId, bool trackChanges) => 
