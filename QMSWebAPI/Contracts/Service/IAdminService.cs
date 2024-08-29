@@ -6,5 +6,7 @@ namespace QMSWebAPI.Contracts.Service
     public interface IAdminService
     {
         Task<IdentityResult> RegisterPersonnel(PersonnelForRegisterDTO personnelForRegister);
+        Task<bool> ValidateUser(PersonnelForAuthenticationDTO personnelForAuth);
+        Task<string> CreateToken();
     }
 }

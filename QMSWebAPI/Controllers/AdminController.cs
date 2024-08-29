@@ -29,6 +29,19 @@ namespace QMSWebAPI.Controllers
             }
             return StatusCode(201);
         }
- 
+
+        [HttpPost("login")]
+        public async Task<IActionResult> Authenticate([FromBody] PersonnelForAuthenticationDTO user)
+        {
+            if (!await _service.AdminService.ValidateUser(user))
+                return Unauthorized();
+            return Ok(new
+            {
+                Token = await _service
+            .AdminService.CreateToken()
+            });
+        }
+
+
     }
 }
