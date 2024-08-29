@@ -36,48 +36,57 @@ namespace QMSWebAPI.Repository
 
             foreach (var entityEntry in entries)
             {
-                if (entityEntry.Entity is User)
+                switch (entityEntry.Entity)
                 {
-                    ((User)entityEntry.Entity).UpdatedAt = DateTime.UtcNow;
-                    if (entityEntry.State == EntityState.Added)
+                    case User user:
                     {
-                        ((User)entityEntry.Entity).CreatedAt = DateTime.UtcNow;
-                    }
-                }
+                        user.UpdatedAt = DateTime.UtcNow;
+                        if (entityEntry.State == EntityState.Added)
+                        {
+                            user.CreatedAt = DateTime.UtcNow;
+                        }
 
-                if (entityEntry.Entity is Section)
-                {
-                    ((Section)entityEntry.Entity).UpdatedAt = DateTime.UtcNow;
-                    if (entityEntry.State == EntityState.Added)
-                    {
-                        ((Section)entityEntry.Entity).CreatedAt = DateTime.UtcNow;
+                        break;
                     }
-                }
-
-                if (entityEntry.Entity is QueueModel)
-                {
-                    ((QueueModel)entityEntry.Entity).UpdatedAt = DateTime.UtcNow;
-                    if (entityEntry.State == EntityState.Added)
+                    case Section section:
                     {
-                        ((QueueModel)entityEntry.Entity).CreatedAt = DateTime.UtcNow;
+                        section.UpdatedAt = DateTime.UtcNow;
+                        if (entityEntry.State == EntityState.Added)
+                        {
+                            section.CreatedAt = DateTime.UtcNow;
+                        }
+
+                        break;
                     }
-                }
-
-                if (entityEntry.Entity is PatientVisit)
-                {
-                    ((PatientVisit)entityEntry.Entity).UpdatedAt = DateTime.UtcNow;
-                    if (entityEntry.State == EntityState.Added)
+                    case QueueModel model:
                     {
-                        ((PatientVisit)entityEntry.Entity).CreatedAt = DateTime.UtcNow;
+                        model.UpdatedAt = DateTime.UtcNow;
+                        if (entityEntry.State == EntityState.Added)
+                        {
+                            model.CreatedAt = DateTime.UtcNow;
+                        }
+
+                        break;
                     }
-                }
-
-                if (entityEntry.Entity is PersonnelAction)
-                {
-                    ((PersonnelAction)entityEntry.Entity).UpdatedAt = DateTime.UtcNow;
-                    if (entityEntry.State == EntityState.Added)
+                    case PatientVisit visit:
                     {
-                        ((PersonnelAction)entityEntry.Entity).CreatedAt = DateTime.UtcNow;
+                        visit.UpdatedAt = DateTime.UtcNow;
+                        if (entityEntry.State == EntityState.Added)
+                        {
+                            visit.CreatedAt = DateTime.UtcNow;
+                        }
+
+                        break;
+                    }
+                    case PersonnelAction action:
+                    {
+                        action.UpdatedAt = DateTime.UtcNow;
+                        if (entityEntry.State == EntityState.Added)
+                        {
+                            action.CreatedAt = DateTime.UtcNow;
+                        }
+
+                        break;
                     }
                 }
             }
