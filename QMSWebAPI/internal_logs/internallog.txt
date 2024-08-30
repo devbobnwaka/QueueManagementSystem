@@ -614,3 +614,9 @@
 2024-08-29 19:23:48.4429 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
 2024-08-29 19:23:48.4691 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\QMS\QMSWebAPI\nlog.config
 2024-08-29 19:23:48.5001 Info Configuration initialized.
+2024-08-29 21:05:44.1565 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-08-29 21:05:44.1825 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-08-29 21:05:44.2014 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\QMS\QMSWebAPI\nlog.config
+2024-08-29 21:05:44.2239 Info Configuration initialized.
+2024-08-29 21:05:47.0907 Info AppDomain Shutting down. LogFactory closing...
+2024-08-29 21:05:47.1068 Info LogFactory has been closed.
