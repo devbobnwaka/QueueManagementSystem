@@ -12,8 +12,8 @@ using QMSWebAPI.Repository;
 namespace QMSWebAPI.Migrations
 {
     [DbContext(typeof(RepositoryContext))]
-    [Migration("20240829200546_AdditionalUserFiledsForRefreshToken")]
-    partial class AdditionalUserFiledsForRefreshToken
+    [Migration("20240904085848_InitMigrate")]
+    partial class InitMigrate
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -54,19 +54,19 @@ namespace QMSWebAPI.Migrations
                     b.HasData(
                         new
                         {
-                            Id = "ebe9e7ee-0e01-490c-bd5a-d71b756bb3cd",
+                            Id = "aab9a3c4-4ef1-4ebd-b322-123a352dcb04",
                             Name = "Administrator",
                             NormalizedName = "ADMINISTRATOR"
                         },
                         new
                         {
-                            Id = "a8defb49-f6b5-4f51-8978-017ec6893482",
+                            Id = "4b2fb5f7-2472-4196-aef2-e1ad3bbb0a2f",
                             Name = "Personnel",
                             NormalizedName = "PERSONNEL"
                         },
                         new
                         {
-                            Id = "14c8ef9e-3a68-4336-94cd-565be0794bab",
+                            Id = "1aa2b642-17bb-44a6-8075-026a7a9b04fe",
                             Name = "IMT",
                             NormalizedName = "IMT"
                         });
@@ -291,20 +291,20 @@ namespace QMSWebAPI.Migrations
                         new
                         {
                             Id = 1,
-                            CreatedAt = new DateTime(2024, 8, 29, 20, 5, 45, 770, DateTimeKind.Utc).AddTicks(7569),
+                            CreatedAt = new DateTime(2024, 9, 4, 8, 58, 47, 871, DateTimeKind.Utc).AddTicks(6115),
                             CurrentQueueNumber = 0,
                             LastRestDate = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             Name = "Pharmacy",
-                            UpdatedAt = new DateTime(2024, 8, 29, 20, 5, 45, 770, DateTimeKind.Utc).AddTicks(7573)
+                            UpdatedAt = new DateTime(2024, 9, 4, 8, 58, 47, 871, DateTimeKind.Utc).AddTicks(6117)
                         },
                         new
                         {
                             Id = 2,
-                            CreatedAt = new DateTime(2024, 8, 29, 20, 5, 45, 770, DateTimeKind.Utc).AddTicks(7576),
+                            CreatedAt = new DateTime(2024, 9, 4, 8, 58, 47, 871, DateTimeKind.Utc).AddTicks(6119),
                             CurrentQueueNumber = 0,
                             LastRestDate = new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
                             Name = "Doctor",
-                            UpdatedAt = new DateTime(2024, 8, 29, 20, 5, 45, 770, DateTimeKind.Utc).AddTicks(7576)
+                            UpdatedAt = new DateTime(2024, 9, 4, 8, 58, 47, 871, DateTimeKind.Utc).AddTicks(6119)
                         });
                 });
 

@@ -14,7 +14,7 @@ namespace QMSWebAPI.Shared.DataTransferObjects
         public int SectionID { get; init; }
         [Required(ErrorMessage = "Password is required")]
         public string Password { get; init; } = null!;
-        public string? Role { get; init; }
+        public ICollection<string>? Roles { get; init; }
 
 
     }

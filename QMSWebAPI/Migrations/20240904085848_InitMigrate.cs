@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace QMSWebAPI.Migrations
 {
     /// <inheritdoc />
-    public partial class initialMigrate : Migration
+    public partial class InitMigrate : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -72,6 +72,8 @@ namespace QMSWebAPI.Migrations
                     Id = table.Column<string>(type: "nvarchar(450)", nullable: false),
                     FirstName = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     LastName = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    RefreshToken = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    RefreshTokenExpiryTime = table.Column<DateTime>(type: "datetime2", nullable: false),
                     SectionId = table.Column<int>(type: "int", nullable: false),
                     CreatedAt = table.Column<DateTime>(type: "datetime2", nullable: false),
                     UpdatedAt = table.Column<DateTime>(type: "datetime2", nullable: false),
@@ -252,9 +254,9 @@ namespace QMSWebAPI.Migrations
                 columns: new[] { "Id", "ConcurrencyStamp", "Name", "NormalizedName" },
                 values: new object[,]
                 {
-                    { "2bcae7e0-95a7-4275-b90a-c5e58cd2a838", null, "Administrator", "ADMINISTRATOR" },
-                    { "417394bd-0873-45eb-ae9a-e0406eeb741d", null, "Personnel", "PERSONNEL" },
-                    { "de606949-3321-4997-a9a9-c54ae283ddb9", null, "IMT", "IMT" }
+                    { "1aa2b642-17bb-44a6-8075-026a7a9b04fe", null, "IMT", "IMT" },
+                    { "4b2fb5f7-2472-4196-aef2-e1ad3bbb0a2f", null, "Personnel", "PERSONNEL" },
+                    { "aab9a3c4-4ef1-4ebd-b322-123a352dcb04", null, "Administrator", "ADMINISTRATOR" }
                 });
 
             migrationBuilder.InsertData(
@@ -262,8 +264,8 @@ namespace QMSWebAPI.Migrations
                 columns: new[] { "Id", "CreatedAt", "CurrentQueueNumber", "LastRestDate", "Name", "UpdatedAt" },
                 values: new object[,]
                 {
-                    { 1, new DateTime(2024, 8, 8, 18, 10, 30, 348, DateTimeKind.Utc).AddTicks(6036), 0, new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), "Pharmacy", new DateTime(2024, 8, 8, 18, 10, 30, 348, DateTimeKind.Utc).AddTicks(6040) },
-                    { 2, new DateTime(2024, 8, 8, 18, 10, 30, 348, DateTimeKind.Utc).AddTicks(6043), 0, new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), "Doctor", new DateTime(2024, 8, 8, 18, 10, 30, 348, DateTimeKind.Utc).AddTicks(6043) }
+                    { 1, new DateTime(2024, 9, 4, 8, 58, 47, 871, DateTimeKind.Utc).AddTicks(6115), 0, new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), "Pharmacy", new DateTime(2024, 9, 4, 8, 58, 47, 871, DateTimeKind.Utc).AddTicks(6117) },
+                    { 2, new DateTime(2024, 9, 4, 8, 58, 47, 871, DateTimeKind.Utc).AddTicks(6119), 0, new DateTime(1, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified), "Doctor", new DateTime(2024, 9, 4, 8, 58, 47, 871, DateTimeKind.Utc).AddTicks(6119) }
                 });
 
             migrationBuilder.CreateIndex(

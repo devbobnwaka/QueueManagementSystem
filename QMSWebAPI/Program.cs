@@ -23,6 +23,7 @@ builder.Services.AddAutoMapper(typeof(Program));
 string connectionString = builder.Configuration.GetConnectionString("sqlConnection") 
     ?? throw new InvalidOperationException("Connection string 'sqlConnection' not found!!!");
 builder.Services.ConfigureDBContextService(connectionString);
+builder.Services.AddAuthentication();
 builder.Services.ConfigureIdentity();
 builder.Services.ConfigureJWT(builder.Configuration);
 builder.Services.ConfigureRepositoryManager();
@@ -47,6 +48,7 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();

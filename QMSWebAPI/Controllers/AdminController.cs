@@ -35,11 +35,9 @@ namespace QMSWebAPI.Controllers
         {
             if (!await _service.AdminService.ValidateUser(user))
                 return Unauthorized();
-            return Ok(new
-            {
-                Token = await _service
-            .AdminService.CreateToken()
-            });
+            var tokenDto = await _service.AdminService.CreateToken(populateExp: true);
+            return Ok(tokenDto);
+
         }
 
 
