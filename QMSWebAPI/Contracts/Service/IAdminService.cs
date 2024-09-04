@@ -8,5 +8,7 @@ namespace QMSWebAPI.Contracts.Service
         Task<IdentityResult> RegisterPersonnel(PersonnelForRegisterDTO personnelForRegister);
         Task<bool> ValidateUser(PersonnelForAuthenticationDTO personnelForAuth);
         Task<TokenDto> CreateToken(bool populateExp);
+        Task<TokenDto> RefreshToken(TokenDto tokenDto);
+
     }
 }

@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.IdentityModel.Tokens;
 using QMSWebAPI.Contracts;
 using QMSWebAPI.Contracts.Service;
+using QMSWebAPI.Entities.Exceptions;
 using QMSWebAPI.Entities.Models;
 using QMSWebAPI.Shared.DataTransferObjects;
 using System.IdentityModel.Tokens.Jwt;
@@ -138,6 +139,16 @@ namespace QMSWebAPI.Service
             return result;
         }
 
-       
+        public async Task<TokenDto> RefreshToken(TokenDto tokenDto)
+        {
+            var principal = GetPrincipalFromExpiredToken(tokenDto.AccessToken);
+            var user = await _userManager.FindByNameAsync(principal.Identity.Name);
+            if (user == null || user.RefreshToken != tokenDto.RefreshToken ||
+            user.RefreshTokenExpiryTime <= DateTime.Now)
+                throw new RefreshTokenBadRequest();
+            _user = user;
+            return await CreateToken(populateExp: false);
+        }
+
     }
 }
