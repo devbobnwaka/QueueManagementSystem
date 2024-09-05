@@ -696,3 +696,7 @@
 2024-09-05 14:12:08.1933 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
 2024-09-05 14:12:08.2111 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\QMS\QMSWebAPI\nlog.config
 2024-09-05 14:12:08.2383 Info Configuration initialized.
+2024-09-05 14:32:31.3167 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2024-09-05 14:32:31.5198 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.3.2.2526. Product version: 5.3.2+8d52d4f3fcdbd84beae3442e1fdc8125598ed81f. GlobalAssemblyCache: False
+2024-09-05 14:32:31.6328 Info Validating config: TargetNames=logfile, ConfigItems=13, FilePath=C:\Users\Chibueze.Nwaka\source\repos\QMS\QMSWebAPI\nlog.config
+2024-09-05 14:32:31.7115 Info Configuration initialized.

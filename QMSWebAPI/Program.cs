@@ -5,6 +5,7 @@ using NLog;
 using Microsoft.EntityFrameworkCore;
 using DotNetEnv;
 using QMSWebAPI.Extentions.ServiceExtensions;
+using QMSWebAPI.Extentions;
 
 
 
@@ -39,12 +40,19 @@ builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
+
+var logger = app.Services.GetRequiredService<ILoggerManager>();
+app.ConfigureExceptionHandler(logger);
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+
+if (app.Environment.IsProduction())
+    app.UseHsts();
 
 app.UseHttpsRedirection();
 
