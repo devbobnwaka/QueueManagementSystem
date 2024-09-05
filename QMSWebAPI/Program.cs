@@ -1,10 +1,10 @@
 using QMSWebAPI.Contracts;
 using QMSWebAPI.LoggerService;
 using QMSWebAPI.Repository;
-using QMSWebAPI.ServiceExtensions;
 using NLog;
 using Microsoft.EntityFrameworkCore;
 using DotNetEnv;
+using QMSWebAPI.Extentions.ServiceExtensions;
 
 
 

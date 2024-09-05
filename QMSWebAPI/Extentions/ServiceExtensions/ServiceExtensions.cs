@@ -12,11 +12,11 @@ using System.Text;
 
 
 
-namespace QMSWebAPI.ServiceExtensions
+namespace QMSWebAPI.Extentions.ServiceExtensions
 {
     public static class ServiceExtensions
     {
-        public static void ConfigureLoggerService(this IServiceCollection services) 
+        public static void ConfigureLoggerService(this IServiceCollection services)
             => services.AddSingleton<ILoggerManager, LoggerManager>();
         public static void ConfigureRepositoryManager(this IServiceCollection services)
             => services.AddScoped<IRepositoryManager, RepositoryManager>();
@@ -38,7 +38,7 @@ namespace QMSWebAPI.ServiceExtensions
             })
                 .AddEntityFrameworkStores<RepositoryContext>()
                 .AddDefaultTokenProviders();
-            
+
         }
 
         public static void ConfigureJWT(this IServiceCollection services, IConfiguration configuration)
